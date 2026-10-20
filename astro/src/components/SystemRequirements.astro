@@ -17,5 +17,6 @@ const rows = [{ label: 'Minimum', r: req }, { label: 'Recommended', r: req.recom
       </div>
     </>)}
     <p class="lede">{req.note}</p>
+    {req.note_vm && <p class="lede">{req.note_vm}</p>}
   </div>
 </section>
