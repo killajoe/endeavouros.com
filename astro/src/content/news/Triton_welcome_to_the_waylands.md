@@ -17,7 +17,7 @@ As always, a quick reminder:
 
 The changes described here affect new installs, our Calamares installer, the offline installer, and the Live environment on the ISO only. Existing installations do not need to be reinstalled; if you update your system regularly, you are already up to date.
 
-Triton’s live environment and offline installer ship with up-to-date core packages, updated graphics stacks, and our latest installer refinements.th:
+Triton’s live environment and offline installer ship with up-to-date core packages, updated graphics stacks, and our latest installer refinements.
 
 ## Key Changes & New Features
 
@@ -25,7 +25,7 @@ Triton’s live environment and offline installer ship with up-to-date core pack
 
 * Sway & COSMIC Desktop Options: We are expanding our desktop offerings! Users can now select and install both the Sway window manager setup and the COSMIC desktop environment directly through the installer options.
 
-* Legacy Desktops Removed: To streamline maintenance and focus on reliable, modern desktop experiences, deprecated legacy desktop choices have been officially removed from the netinstall options.
+* Legacy Desktops Removed: To streamline maintenance and focus on reliable, modern desktop experiences, deprecated legacy desktop choices have been officially removed from the install options. Budgie is still off the rack too, but we hope to add it back soon.
 
 * Refined NVIDIA Implementation: We have overhauled how NVIDIA driver handling and module loading operate during both the Live session boot and the target system installation, providing better compatibility across proprietary and open kernel modules.
 
