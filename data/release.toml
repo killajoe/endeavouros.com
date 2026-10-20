@@ -41,7 +41,7 @@ diskGb = 15
 ramGb  = 4
 cores  = 2
 cpu    = "64-bit Intel or AMD processor"
-note = "Legacy BIOS/MBR systems are supported, but modern UEFI/GPT configurations without CSM are recommended." "Virtual environments such as QEMU, VMware, and VirtualBox are fully supported."
+note = "Legacy BIOS/MBR systems are supported, but modern UEFI/GPT configurations without CSM are recommended. Virtual environments such as QEMU, VMware, and VirtualBox are fully supported."
 
 [current.requirements.recommended]
 diskGb = 25
