@@ -7,11 +7,11 @@
 # No HTML is ever touched.
 
 [current]
-codename  = "Titan Nova"
-date      = 2026-08-15
-iso       = "EndeavourOS_Titan-Nova-2026.08.15.iso"
-sha512    = "3f83bd745e9d5d518bdf6fc9a24092fb5347da449a6e109c6572bf999097b8b548c4cf1848fdfb3c7c2823f558c3f5b51a127060d9c5b81b9ad89b4041bee7fa"
-sizeBytes = 3898638336
+codename  = "Triton"
+date      = 2026-10-23
+iso       = "EndeavourOS_Triton-2026.10.23.iso"
+sha512    = "3f83bd745e9d5d518bdf6fc9a24092fb5347da34333f1848fdfb3c7c2823f558c3f5b51a127060d9c5b81b9ad89b4041bee7fa"
+sizeBytes = 3898344446
 
 # Suffixes appended to `iso` to build the checksum and signature URLs.
 #
