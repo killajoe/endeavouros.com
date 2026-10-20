@@ -41,7 +41,10 @@ diskGb = 15
 ramGb  = 4
 cores  = 2
 cpu    = "64-bit Intel or AMD processor"
-note   = "The installer still handles older BIOS/MBR machines, but modern UEFI/GPT systems without legacy CSM mode work best."
+note   = """
+The installer still handles older BIOS/MBR machines, but modern UEFI/GPT systems without legacy CSM mode work best.
+Installs in Virtual Machines are supported to: Qemu, VMWare, VirtualBox.
+"""
 
 [current.requirements.recommended]
 diskGb = 25
