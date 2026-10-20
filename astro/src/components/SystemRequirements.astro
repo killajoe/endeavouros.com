@@ -2,7 +2,6 @@
 import { release } from '../lib/site';
 const rel = await release();
 const req = rel.requirements;
-// One template renders both rows so their cards cannot drift apart.
 const rows = [{ label: 'Minimum', r: req }, { label: 'Recommended', r: req.recommended }];
 ---
 <section class="section section--sunken" id="requirements">
