@@ -87,6 +87,7 @@ const release = defineCollection({
       cores: z.number().int().positive(),
       cpu: z.string(),
       note: z.string(),
+      note_vm: z.string(),
       recommended: z.object({
         diskGb: z.number().int().positive(),
         ramGb: z.number().int().positive(),
